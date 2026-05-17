@@ -15,6 +15,7 @@
 - React
 - NextJS
 - Tailwind CSS
+- AstroJS
 
 ### Knowledge on
 ###### (sorry there's so much)
@@ -34,5 +35,4 @@
 - Modularity
 
 ### Learning
-- Go
-- Django
+- Golang
